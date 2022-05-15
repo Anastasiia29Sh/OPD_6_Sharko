@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "671cd020-3ff1-4dba-896f-0e9fd2aa5814": {
+      "ProjectGuid": "671cd020-3ff1-4dba-896f-0e9fd2aa5814",
+      "DisplayName": "program",
+      "ColorIndex": 0
+    },
+    "d687169a-2aac-44d4-baa1-15709b4c357d": {
+      "ProjectGuid": "d687169a-2aac-44d4-baa1-15709b4c357d",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    },
+    "72b96707-d233-48dc-8298-684a22c70d18": {
+      "ProjectGuid": "72b96707-d233-48dc-8298-684a22c70d18",
+      "DisplayName": "TestProject2",
+      "ColorIndex": 2
+    },
+    "864c7455-f173-480a-9043-f73d996d2208": {
+      "ProjectGuid": "864c7455-f173-480a-9043-f73d996d2208",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 3
+    },
+    "58ea6d1a-81ea-4af5-8c04-48149bf945c2": {
+      "ProjectGuid": "58ea6d1a-81ea-4af5-8c04-48149bf945c2",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
